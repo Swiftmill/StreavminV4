@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cat_trending",
+    "name": "Tendances",
+    "slug": "tendances",
+    "order": 0
+  },
+  {
+    "id": "cat_action",
+    "name": "Action",
+    "slug": "action",
+    "order": 1
+  },
+  {
+    "id": "cat_anime",
+    "name": "Anime",
+    "slug": "anime",
+    "order": 2
+  }
+]
