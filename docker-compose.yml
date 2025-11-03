@@ -1,0 +1,20 @@
+version: '3.9'
+services:
+  api:
+    build: .
+    ports:
+      - "4000:4000"
+    environment:
+      - SESSION_SECRET=changeme
+      - FRONTEND_ORIGIN=http://localhost:3000,http://web:3000
+    volumes:
+      - ./data:/app/data
+  web:
+    build:
+      context: ./frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_BASE=http://api:4000
+    depends_on:
+      - api

@@ -1,0 +1,84 @@
+{
+  "id": "ser_aurora",
+  "seriesName": "Legends of Aurora",
+  "slug": "legends-of-aurora",
+  "synopsis": "Des héros affrontent une menace ancienne dans un monde fantastique.",
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "seriesName": "Legends of Aurora",
+          "season": 1,
+          "ep": 1,
+          "title": "L'Éveil",
+          "synopsis": "Le pouvoir de l'Aurora se réveille.",
+          "streamUrl": "https://test-streams.mux.dev/pts_shift/master.m3u8",
+          "subtitles": [],
+          "tags": ["fantasy", "tendances"],
+          "published": true
+        },
+        {
+          "seriesName": "Legends of Aurora",
+          "season": 1,
+          "ep": 2,
+          "title": "La Gardienne",
+          "synopsis": "Les héros rencontrent la Gardienne de la forêt.",
+          "streamUrl": "https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8",
+          "subtitles": [],
+          "tags": ["aventure", "fantasy"],
+          "published": true
+        },
+        {
+          "seriesName": "Legends of Aurora",
+          "season": 1,
+          "ep": 3,
+          "title": "Les Ruines",
+          "synopsis": "Une ancienne ruine révèle un secret.",
+          "streamUrl": "https://test-streams.mux.dev/tsfiles/ts-files.m3u8",
+          "subtitles": [],
+          "tags": ["mystère"],
+          "published": true
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        {
+          "seriesName": "Legends of Aurora",
+          "season": 2,
+          "ep": 1,
+          "title": "Le Portail",
+          "synopsis": "Un portail instable menace le royaume.",
+          "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/angel-one-hls/hls.m3u8",
+          "subtitles": [],
+          "tags": ["fantasy"],
+          "published": true
+        },
+        {
+          "seriesName": "Legends of Aurora",
+          "season": 2,
+          "ep": 2,
+          "title": "Alliances",
+          "synopsis": "Les royaumes s'unissent contre la noirceur.",
+          "streamUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+          "subtitles": [],
+          "tags": ["aventure"],
+          "published": true
+        },
+        {
+          "seriesName": "Legends of Aurora",
+          "season": 2,
+          "ep": 3,
+          "title": "L'Ascension",
+          "synopsis": "La bataille finale approche.",
+          "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+          "subtitles": [],
+          "tags": ["epique"],
+          "published": true
+        }
+      ]
+    }
+  ]
+}

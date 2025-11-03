@@ -1,0 +1,84 @@
+{
+  "id": "ser_cyberfrontier",
+  "seriesName": "Cyber Frontier",
+  "slug": "cyber-frontier",
+  "synopsis": "Une équipe d'élite protège le cyber-espace.",
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "seriesName": "Cyber Frontier",
+          "season": 1,
+          "ep": 1,
+          "title": "Pare-feu",
+          "synopsis": "La team traque un pirate légendaire.",
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [],
+          "tags": ["action", "tendances"],
+          "published": true
+        },
+        {
+          "seriesName": "Cyber Frontier",
+          "season": 1,
+          "ep": 2,
+          "title": "Faille",
+          "synopsis": "Un bug ouvre une porte secrète.",
+          "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/angel-one-hls/hls.m3u8",
+          "subtitles": [],
+          "tags": ["thriller", "action"],
+          "published": true
+        },
+        {
+          "seriesName": "Cyber Frontier",
+          "season": 1,
+          "ep": 3,
+          "title": "Mirage",
+          "synopsis": "Mission sous couverture dans le dark web.",
+          "streamUrl": "https://test-streams.mux.dev/bbb.m3u8",
+          "subtitles": [],
+          "tags": ["espionnage", "tendances"],
+          "published": true
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        {
+          "seriesName": "Cyber Frontier",
+          "season": 2,
+          "ep": 1,
+          "title": "Redémarrage",
+          "synopsis": "Nouvelle recrue, nouvelles menaces.",
+          "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.m3u8",
+          "subtitles": [],
+          "tags": ["action"],
+          "published": true
+        },
+        {
+          "seriesName": "Cyber Frontier",
+          "season": 2,
+          "ep": 2,
+          "title": "Ombres",
+          "synopsis": "Trahison au sein de l'équipe.",
+          "streamUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+          "subtitles": [],
+          "tags": ["thriller"],
+          "published": true
+        },
+        {
+          "seriesName": "Cyber Frontier",
+          "season": 2,
+          "ep": 3,
+          "title": "Tempête",
+          "synopsis": "Attaque globale synchronisée.",
+          "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.m3u8",
+          "subtitles": [],
+          "tags": ["catastrophe"],
+          "published": true
+        }
+      ]
+    }
+  ]
+}
